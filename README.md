@@ -15,17 +15,20 @@ no seu servidor local: http://localhost/phpmyadmin/;
    que possuem alguns registros de exemplo.
   <br>
   <br>
-  Execute o script SQL dentro de agenda em [phpmyadmin](http://localhost/phpmyadmin/),
+  Execute o script SQL dentro de agenda em http://localhost/phpmyadmin/,
   ou pelo meio de sua escolha.
 </p>
 
-Após criar as tabelas no banco de dados,
-abra o terminal no diretório onde se encontra a pasta public dentro de projeto,
-e inicalize o servidor na porta 8000:
+<p>
+  Após criar as tabelas no banco de dados,
+  abra o terminal no diretório onde se encontra a <b>pasta public dentro de projeto</b>,
+  <br> 
+  <b>Inicalize o servidor na porta 8000:<b>
 
-```bash
-php -S localhost:8000
-```
+  ```bash
+  php -S localhost:8000
+  ```
+</p>
 
 Acesse a [porta 8000 do seu servidor](localhost:8000/) e opere o sistema :v:
 ## :mortar_board: Desenvolvido pelo curso da [TreinaWeb](https://www.treinaweb.com.br/)
