@@ -30,8 +30,8 @@ em http://localhost/phpmyadmin/;
   ```
 </p>
 
-Acesse a [porta 8000 do seu servidor](localhost:8000/) e opere o sistema :v:
-## :mortar_board: Desenvolvido pelo curso da [TreinaWeb](https://www.treinaweb.com.br/)
+Acesse http://localhost:8000/ e opere o sistema :v:
 
+## :mortar_board: Desenvolvido pelo curso PHP Intermediário da [TreinaWeb](https://www.treinaweb.com.br/)
 
-## PS: É necessário ter o xampp e o php já instalados na sua máquina;
+## PS: É necessário ter o xampp e o php 7 na sua máquina;
