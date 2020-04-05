@@ -1,11 +1,14 @@
 ## Sistema de Cadastro de Eventos
 <b>Desenvolvido utilizando MySQL e PHP :elephant:</b>
 
-Para testar e executar é necessário ter o servidor Apache e MySQL rodando no localhost de sua máquina, 
-provavelmente através do [xampp](https://www.apachefriends.org/pt_br/index.html) ;
+Riquerimentos
+--------------
+* PHP 7.2.9 or higher;
+* [xampp][1].
 
-Primeiro cria-se um banco de dados chamado <b>agenda</b>
-em http://localhost/phpmyadmin/;
+Configuração do Banco de Dados
+------------------------------
+Cria-se um banco de dados chamado <b>agenda</b> em [phpmyadmin][2]
 
 
   Após a criação do banco de dados agenda , é necessário criar as tabelas que serão utilizadas.
@@ -16,12 +19,12 @@ em http://localhost/phpmyadmin/;
   as quais possuem alguns registros de exemplo.
   <br>
   <br>
-  Execute o script SQL dentro de agenda em http://localhost/phpmyadmin/, ou pelo meio de sua escolha.
+  Execute o script SQL dentro de agenda em [phpmyadmin][2], ou pelo meio de sua escolha.
 
-
+Uso
+-----
 <p>
-  Após criar as tabelas no banco de dados,
-  abra o terminal no diretório onde se encontra a <b>pasta public dentro de projeto</b>,
+  Abra o terminal no diretório onde se encontra a <b>pasta public dentro de projeto</b>,
   <br> 
   <b>Inicalize o servidor na porta 8000:<b>
 
@@ -30,8 +33,14 @@ em http://localhost/phpmyadmin/;
   ```
 </p>
 
-Acesse http://localhost:8000/ e opere o sistema :v:
+Acesse [localhost] e opere o sistema :v:
 
-## :mortar_board: Desenvolvido pelo curso PHP Intermediário da [TreinaWeb](https://www.treinaweb.com.br/)
+## :mortar_board: Desenvolvido pelo curso PHP Intermediário da [TreinaWeb][4]
 
-## PS: É necessário ter o xampp e o php 7 na sua máquina;
+## Capelaum :purple_heart:
+
+[1]: https://www.apachefriends.org/pt_br/index.html
+[2]: http://localhost/phpmyadmin/;
+[3]: http://localhost:8000/
+[4]: https://www.treinaweb.com.br/
+[5]:
