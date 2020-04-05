@@ -33,7 +33,7 @@ Uso
   ```
 </p>
 
-Acesse [localhost] e opere o sistema :v:
+Acesse [localhost][3] e opere o sistema :v:
 
 ## :mortar_board: Desenvolvido pelo curso PHP Intermediário da [TreinaWeb][4]
 
@@ -43,4 +43,3 @@ Acesse [localhost] e opere o sistema :v:
 [2]: http://localhost/phpmyadmin/;
 [3]: http://localhost:8000/
 [4]: https://www.treinaweb.com.br/
-[5]:
