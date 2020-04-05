@@ -1,7 +1,7 @@
 ## Sistema de Cadastro de Eventos
 <b>Desenvolvido utilizando MySQL e PHP :elephant:</b>
 
-Riquerimentos
+Requerimentos
 --------------
 * PHP 7.2.9 or higher;
 * [xampp][1].
