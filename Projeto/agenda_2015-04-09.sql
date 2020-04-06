@@ -2,7 +2,7 @@ DROP TABLE IF EXISTS `evento`;
 
 CREATE TABLE `evento` (
   `id` int(11) NOT NULL AUTO_INCREMENT,
-  `data` date NOT NULL DEFAULT '0000-00-00',
+  `data` date NOT NULL DEFAULT '1111-11-11',
   `hora_de` time NOT NULL DEFAULT '00:00:00',
   `hora_ate` time DEFAULT NULL,
   `descricao` text NOT NULL,
