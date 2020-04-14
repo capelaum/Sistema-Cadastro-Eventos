@@ -35,9 +35,9 @@ Uso
 
 Acesse [localhost][3] e opere o sistema :v:
 
-## :mortar_board: Desenvolvido pelo curso PHP Intermediário da [TreinaWeb][4]
+### :mortar_board: Desenvolvido pelo curso PHP Intermediário da [TreinaWeb][4]
 
-## Capelaum :purple_heart:
+### By Capelaum :purple_heart:
 
 [1]: https://www.apachefriends.org/pt_br/index.html
 [2]: http://localhost/phpmyadmin/;
