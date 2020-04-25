@@ -4,11 +4,11 @@
 Requerimentos
 --------------
 * PHP 7.2.9 or higher;
-* [xampp][1].
+* xampp
 
 Configuração do Banco de Dados
 ------------------------------
-Cria-se um banco de dados chamado <b>agenda</b> em [phpmyadmin][2]
+Cria-se um banco de dados chamado <b>agenda</b> em phpmyadmin
 
 
   Após a criação do banco de dados agenda , é necessário criar as tabelas que serão utilizadas.
@@ -28,18 +28,19 @@ Uso
   <br> 
   <b>Inicalize o servidor na porta 8000:<b>
 
+</p>
   ```bash
   php -S localhost:8000
   ```
-</p>
 
-Acesse [localhost][3] e opere o sistema :v:
+Acesse localhost e opere o sistema :v:
 
-### :mortar_board: Desenvolvido pelo curso PHP Intermediário da [TreinaWeb][4]
+### Desenvolvido pelo curso PHP Intermediário da TreinaWeb 4
 
-### By Capelaum :purple_heart:
+### By Capelaum 
 
-[1]: https://www.apachefriends.org/pt_br/index.html
+<!-- [1]: https://www.apachefriends.org/pt_br/index.html
 [2]: http://localhost/phpmyadmin/;
 [3]: http://localhost:8000/
 [4]: https://www.treinaweb.com.br/
+ -->
