@@ -1,6 +1,6 @@
 ## Sistema de Cadastro de Eventos
 
-<b>Desenvolvido utilizando MySQL e PHP :elephant:</b>
+<b>Desenvolvido utilizando MySQL e PHP</b>
 
 Requerimentos
 --------------
@@ -25,9 +25,9 @@ Cria-se um banco de dados chamado <b>agenda</b> em phpmyadmin
 Uso
 -----
 <p>
-  Abra o terminal no diretório onde se encontra a <b>pasta public dentro de projeto</b>,
+  Abra o terminal no diretório onde se encontra a pasta <b>public</b> dentro de projeto,
   <br> 
-  <b>Inicalize o servidor na porta 8000:<b>
+  <b>Inicalize o servidor na porta 8000:</b>
 
 </p>
 
