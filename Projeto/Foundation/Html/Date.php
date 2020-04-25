@@ -13,7 +13,6 @@ class Date
     public function setDate($date)
     {
         $this->date = new DateTime($date);
-
         return $this;
     }
 
