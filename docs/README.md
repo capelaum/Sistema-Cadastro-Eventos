@@ -1,4 +1,4 @@
-## Sistema de Cadastro de Eventos
+# Sistema de Cadastro de Eventos
 
 <b>Desenvolvido utilizando MySQL e PHP</b>
 
@@ -25,17 +25,19 @@ Cria-se um banco de dados chamado <b>agenda</b> em phpmyadmin
 Uso
 -----
 <p>
-  Abra o terminal no diretório onde se encontra a pasta <b>public</b> dentro de projeto,
-  <br> 
-  <b>Inicalize o servidor na porta 8000:</b>
-
+  Abra o terminal no diretório onde se encontra a pasta <b>public</b> dentro de projeto,<br> 
 </p>
+
+  <b>Inicalize o servidor na porta 8000:</b>
 
   ```bash
   php -S localhost:8000
   ```
 
-Acesse localhost e opere o sistema :v:
+Acesse localhost:8000 no seu browser e opere o sistema =)
+
+#### PS: Dentro do arquivo em Projeto/Foundation/Database/Db.php na linha 15 
+pode ser necessário trocar a porta utilizada de port:3333 para a porta padrão 3306
 
 ### Desenvolvido pelo curso PHP Intermediário da TreinaWeb 4
 
