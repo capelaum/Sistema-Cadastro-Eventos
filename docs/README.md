@@ -1,4 +1,3 @@
-# Sistema de Cadastro de Eventos
 
 <b>Desenvolvido utilizando MySQL e PHP</b>
 
