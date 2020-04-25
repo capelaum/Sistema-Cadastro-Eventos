@@ -1,4 +1,5 @@
 ## Sistema de Cadastro de Eventos
+
 <b>Desenvolvido utilizando MySQL e PHP :elephant:</b>
 
 Requerimentos
@@ -19,7 +20,7 @@ Cria-se um banco de dados chamado <b>agenda</b> em phpmyadmin
   as quais possuem alguns registros de exemplo.
   <br>
   <br>
-  Execute o script SQL dentro de agenda em [phpmyadmin][2], ou pelo meio de sua escolha.
+  Execute o script SQL dentro de agenda em phpmyadmin, ou pelo meio de sua escolha.
 
 Uso
 -----
@@ -29,6 +30,7 @@ Uso
   <b>Inicalize o servidor na porta 8000:<b>
 
 </p>
+
   ```bash
   php -S localhost:8000
   ```
