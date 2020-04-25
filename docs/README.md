@@ -38,9 +38,7 @@ Acesse localhost:8000 no seu browser e opere o sistema =)
 
 <b>PS:</b> Dentro do arquivo em Projeto/Foundation/Database/Db.php na linha 15 pode ser necessário trocar a porta utilizada de port:3333 para a porta padrão 3306
 
-### Desenvolvido pelo curso PHP Intermediário da TreinaWeb 4
-
-### By Capelaum 
+### Desenvolvido pelo curso PHP Intermediário da TreinaWeb!!
 
 <!-- [1]: https://www.apachefriends.org/pt_br/index.html
 [2]: http://localhost/phpmyadmin/;
