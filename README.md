@@ -40,7 +40,7 @@ Acesse [localhost][3] e opere o sistema :v:
 <b>PS:</b> Dentro do arquivo em Projeto/Foundation/Database/Db.php na linha 15 pode ser necessário trocar a porta utilizada de port:3333 para a porta padrão 3306
 
 
-## :octocat: [GitHub Page][5]
+# [GitHub Page][5] :octocat:
 
 [1]: https://www.apachefriends.org/pt_br/index.html
 [2]: http://localhost/phpmyadmin/;
