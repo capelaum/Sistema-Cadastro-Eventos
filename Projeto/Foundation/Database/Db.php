@@ -12,7 +12,7 @@ class Db extends PDO
         ];
 
         // ! Trocar para port=3306 dependendo da porta utilizada pelo MySQL
-        $dns = sprintf('%s:host=%s;port=3333;dbname=%s;charset=utf8;', $sgdb, $host, $db);
+        $dns = sprintf('%s:host=%s;dbname=%s;charset=utf8;', $sgdb, $host, $db);
         parent::__construct($dns, $user, $password, $options);
     }
 
