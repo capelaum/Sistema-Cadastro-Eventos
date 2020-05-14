@@ -11,7 +11,7 @@ class Db extends PDO
             PDO::ATTR_PERSISTENT => $persistent
         ];
 
-        // ! Trocar para port=3306 dependendo da porta utilizada pelo MySQL
+        // ! Trocar port utilizado dependendo da porta utilizada pelo MySQL
         $dns = sprintf('%s:host=%s;dbname=%s;charset=utf8;', $sgdb, $host, $db);
         parent::__construct($dns, $user, $password, $options);
     }
